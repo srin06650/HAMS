@@ -1,3 +1,3 @@
 # HAMS
 hospital
-Added Doctor Modul
+Added Doctor Module
